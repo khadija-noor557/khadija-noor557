@@ -32,78 +32,36 @@ Hi! I'm **Khadija Noor**, a passionate Frontend Developer who enjoys creating re
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🚀 My Tech Stack</h2>
 
-### Frontend
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 
-### Tools & Design
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
-</p>
-
-### Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🌦️ Weather App
-
-A responsive weather application built to practice API integration and dynamic data handling.
-
-**Tech:** HTML • CSS • JavaScript • Bootstrap • API
-
+- 🌦️ [Weather App](https://github.com/khadija-noor557/weather-app) — Weather app using API
+- 🧠 [Quiz App](https://github.com/khadija-noor557/Quiz-Application) — Interactive quiz with timer & score
+- ✅ [To-Do List App](https://github.com/khadija-noor557/Task-To-Do-Application) — Simple task management app
+- 📝 [Notes App](https://github.com/khadija-noor557/Notes-App) — Create and manage notes
+- 🧮 [Calculator](https://github.com/khadija-noor557/Simple-Calculator-with-bootstrap) — Functional JavaScript calculator
+- 💡 [Bulb On/Off](https://github.com/khadija-noor557/on-and-off-bulb-small-project) — Interactive JavaScript DOM project
 ---
 
-### 🧠 Quiz App
-
-An interactive quiz application featuring multiple-choice questions, timer functionality, score tracking and error handling.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### 🏪 Nike Website
-
-A responsive Nike-inspired website created to practice modern webpage layouts and responsive design.
-
-**Tech:** HTML • CSS
-
----
-
-### 👤 Facebook Login Page
-
-A practice project recreating a Facebook-style login interface using HTML and CSS.
-
-**Tech:** HTML • CSS
-
----
-
-### 💼 Portfolio Website
-
-A personal portfolio website created to showcase my skills, projects and development journey.
-
-**Tech:** HTML • CSS
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadija-noor557&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-noor557&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -113,21 +71,11 @@ A personal portfolio website created to showcase my skills, projects and develop
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- Snake Game Repo View -->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khadija-noor557&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadija-noor557&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🤝 Connect With Me
 
