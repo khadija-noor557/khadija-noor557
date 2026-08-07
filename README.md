@@ -1,5 +1,8 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Khadija%20Noor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=65&pause=1000&width=509&height=110&lines=Hello+%3CCoders%3E;I'm+Khadija+Noor" alt="Typing SVG" /></a>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+
 </p>
 
 <h3 align="center">
